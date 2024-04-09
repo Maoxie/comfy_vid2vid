@@ -1,2 +1,2 @@
-diffusers[torch]==0.11.1
+diffusers[torch]==0.27.1
 omegaconf
